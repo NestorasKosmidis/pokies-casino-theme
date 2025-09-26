@@ -1,0 +1,21 @@
+/wp-admin/
+/wp-includes/
+/wp-content/cache/
+/wp-content/uploads/
+
+/wp-content/themes/pokatheme/
+
+# Node / vendor
+node_modules/
+vendor/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
